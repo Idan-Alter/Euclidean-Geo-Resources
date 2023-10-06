@@ -5,7 +5,7 @@
  - [Euclidea - משחק בניה עם סרגל ומחוגה](https://www.euclidea.xyz/)
  - [WebSketchpad - כלי לבניית צורות גיאומטריות](https://geometricfunctions.org/fc/tools/)
  ## מצגות של עידן
-- [מצגת מבוא והיסטוריה](https://docs.google.com/presentation/d/19y0A5Kt6ENuAlGACaY4rdgImx-Gewqw38H2LG2zxKow/edit#slide=id.g28702cdb75f_0_109)
+- [מצגת מבוא והיסטוריה](https://docs.google.com/presentation/d/19y0A5Kt6ENuAlGACaY4rdgImx-Gewqw38H2LG2zxKow/edit#slide=id.p)
  ## מוטיבציה
 - [תכנות תלת מימד](https://docs.pmnd.rs/react-three-fiber/getting-started/examples)
 - [אומנות](https://www.shadertoy.com/)
