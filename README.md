@@ -14,9 +14,6 @@
 - [מעגלים גדולים](https://www.geogebra.org/m/WRvnNKHe#material/gC7nCaFR)
 - [משולש על ספרה](https://www.geogebra.org/m/gubjrdhg)
 - [טריג' על ספרה](https://en.wikipedia.org/wiki/Spherical_trigonometry)
-  
-  ספר:
-  [Heavenly Mathematics: The Forgotten Art of Spherical Trigonometry](https://press.princeton.edu/books/hardcover/9780691148922/heavenly-mathematics)
 
 ## גיאומטריה היפרבולית
 - [חצי המישור של פואנקרה](https://www.geogebra.org/m/DBXvbruR)
@@ -29,3 +26,4 @@
 - [Euclidean and Non-Euclidean Geometries: Development and History](https://books.google.co.il/books/about/Euclidean_and_Non_Euclidean_Geometries.html?id=4uw0dwi7bmQC&redir_esc=y)
 - [Geometry from Euclid to Knots](https://www.google.co.il/books/edition/Geometry_from_Euclid_to_Knots/jLk7lu3bA1wC?hl=en&gbpv=0)
 - [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com/geometry/colophon.html)
+- [Heavenly Mathematics: The Forgotten Art of Spherical Trigonometry](https://press.princeton.edu/books/hardcover/9780691148922/heavenly-mathematics)
