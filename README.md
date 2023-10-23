@@ -21,7 +21,13 @@
 - [פסאודו-ספרה](https://www.geogebra.org/m/gvnumxrr)
 - ["מלאכים ושטנים" של אשר](https://www.dejvid.net/blog/2018/6/19/on-the-case-of-eschers-angels-and-devils)
 - [היפרבוליקה (משחק מחשב)](https://store.steampowered.com/app/1256230/Hyperbolica/)
-
+## סרטונים
+- [גיאומטריה אוקלידית ולא אוקלידית - Veritasium](https://www.youtube.com/watch?v=lFlu60qs7_4)
+- [הוכחות של משפט פיתגורס - MVPs](https://www.youtube.com/watch?v=o2mbN452ywA)
+- [משפט פיתגורס - Mathologer](https://www.youtube.com/watch?v=p-0SOWbzUYI)
+- [מודל הדיסק של פואנקרה - Jos Lys](https://www.youtube.com/watch?v=nu4mkwBEB0Y)
+- [מודלים של גיאומטריה היפרבולית - Henry Segerman](https://www.youtube.com/watch?v=eGEQ_UuQtYs)
+  
 ## ספרים
 - [Euclidean and Non-Euclidean Geometries: Development and History](https://books.google.co.il/books/about/Euclidean_and_Non_Euclidean_Geometries.html?id=4uw0dwi7bmQC&redir_esc=y)
 - [Geometry from Euclid to Knots](https://www.google.co.il/books/edition/Geometry_from_Euclid_to_Knots/jLk7lu3bA1wC?hl=en&gbpv=0)
